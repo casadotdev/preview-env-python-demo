@@ -1,0 +1,5 @@
+{
+    "description": "do python things!",
+    "cmd": "python tasks.py",
+    "schedule": "*/10 * * * *"
+}
